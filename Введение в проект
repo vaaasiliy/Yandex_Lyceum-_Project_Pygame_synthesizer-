@@ -1,0 +1,2 @@
+def new_project():
+    print('la-la-la-l Hello la-la-la-l user')
